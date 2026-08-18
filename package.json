@@ -1,0 +1,16 @@
+{
+  "name": "nexus-x",
+  "version": "1.0.0",
+  "description": "NEXUS-X Sovereign Autonomous Entity & Control Hub",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "High-Cde",
+  "license": "UNLICENSED-PROPRIETARY",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
