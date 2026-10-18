@@ -1,0 +1,5 @@
+// NEXUS-X - Sovereign ZDOS Enclave
+module NEXUS-X {
+    verify_zero_legacy();
+    connect_dsn_mesh();
+}
